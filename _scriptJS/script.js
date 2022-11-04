@@ -1,4 +1,4 @@
-var bvindas=window.prompt('Olá! digite seu primeiro nome: ')
+var bvindas=window.prompt("Olá! digite seu primeiro nome: ")
 function carregar(){
 var msg=window.document.querySelector("div#msg")
 var img = window.document.querySelector("img#imagem")
