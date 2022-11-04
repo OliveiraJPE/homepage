@@ -1,5 +1,4 @@
 @charset "UTF-8";
-
 body{
     background: rgb(158, 158, 232);
     font-family: 'Courier New', Courier, monospace;
@@ -15,7 +14,6 @@ section{
     width: 500px;
     margin: auto;
     box-shadow:5px 5px 10px rgb(53, 48, 48);
-
 }
 footer{
     color:aliceblue;
