@@ -1,10 +1,8 @@
-@font-face {
-    font-family: ;
-    src: url();
-}
+@charset "UTF-8";
+
 body{
     background: rgb(158, 158, 232);
-    font: normal 15pt Arial;
+    font-family: 'Courier New', Courier, monospace;
 }
 header{
     color:aliceblue;
